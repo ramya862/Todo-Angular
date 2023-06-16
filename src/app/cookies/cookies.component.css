@@ -1,0 +1,25 @@
+div
+{
+    margin:10px 0px; 
+    padding:10px 20px;
+     background-color:orange; 
+     text-align:center; 
+     color:black
+}
+h2
+{
+    color:rgb(245, 112, 205)
+}
+p{
+    font-size:14px
+}
+.close{
+    float:right; 
+    
+    margin-Top:-15px;
+    color:red}
+.fadeOut {
+    visibility:hidden;
+    opacity:0;
+    transition:visibility 0s 2s,opacity 2s linear;
+}

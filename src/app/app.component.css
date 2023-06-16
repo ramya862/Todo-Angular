@@ -1,0 +1,48 @@
+img{
+    height:150px;
+    width:200px;
+    align-items: center;
+}
+.abtn
+{
+   background-color:green;
+   border-radius: 20px;
+}
+.dbtn
+{
+   background-color: red;
+   border-radius: 20px;
+}
+h1{
+   color:white;
+   align-items: center;
+}
+body{
+   align-items: center;
+}
+.container {
+   max-width: 500px;
+   margin: auto;
+   padding: 10px;
+ }
+ h2{
+   color:rgb(220, 50, 160)
+ }
+ .task
+ {
+   color:white
+ }
+ .donebtn
+ {
+   background-color: rgb(27, 159, 42);
+ }
+ .penbtn
+ {
+   background-color: rgb(52, 175, 232);
+ }
+ .ebtn
+ {
+   background-color: orange;
+   border-radius: 20px;
+   color:black;
+ }
